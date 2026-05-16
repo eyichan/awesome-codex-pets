@@ -93,6 +93,63 @@ Codex Pets are small desktop coding companions for Codex workflows. Browse, prev
 
 - [Tater](./pets/tater/) - A tiny coding potato mascot with warm idle, waving, waiting, and review animations. [Preview](https://codexpets.org/pets/tater) | [Download](https://codexpets.org/api/pets/tater/download)
 
+## What's Inside Each Pet Entry
+
+Each pet directory follows the same lightweight format:
+
+| File | Purpose |
+| --- | --- |
+| `README.md` | Human-readable pet card with preview, download, manifest, and spritesheet links |
+
+Each pet entry links to:
+
+| Link | Purpose |
+| --- | --- |
+| Preview page | Open the pet page on codexpets.org |
+| Download endpoint | Download the install-ready Codex pet package |
+| Manifest | Inspect the pet metadata as `pet.json` |
+| Spritesheet | Inspect the pet animation spritesheet |
+
+## How to Use
+
+1. Pick a pet from the collection.
+2. Open its preview page on codexpets.org.
+3. Download the install-ready package.
+4. Follow the install guide: [https://codexpets.org/install](https://codexpets.org/install).
+
+Example:
+
+```text
+https://codexpets.org/pets/capybara-coder
+https://codexpets.org/api/pets/capybara-coder/download
+```
+
+## Use with Codex
+
+Ask Codex to fetch or install a pet from one of the download links in this catalog.
+
+Example prompt:
+
+```text
+Download and install this Codex pet package:
+https://codexpets.org/api/pets/capybara-coder/download
+```
+
+For custom pets, open the builder and describe what you want:
+
+```text
+https://codexpets.org/builder
+```
+
+## Repository Files
+
+| File | Purpose |
+| --- | --- |
+| `README.md` | Curated human-readable catalog |
+| `pets.json` | Machine-readable catalog with preview, download, manifest, and spritesheet URLs |
+| `pets/<pet-id>/README.md` | Individual pet entry |
+| `CONTRIBUTING.md` | Contribution rules |
+
 ## Machine-Readable Catalog
 
 Use [pets.json](./pets.json) for the full downloadable catalog, including preview pages, direct download links, manifest URLs, and spritesheet URLs.
