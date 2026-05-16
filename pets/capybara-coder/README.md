@@ -12,10 +12,17 @@ A calm pixel capybara coding companion with small glasses, a blue shirt, and fri
 - Manifest: [https://codexpets.org/pets/capybara-coder/pet.json](https://codexpets.org/pets/capybara-coder/pet.json)
 - Spritesheet: [https://codexpets.org/pets/capybara-coder/spritesheet.webp](https://codexpets.org/pets/capybara-coder/spritesheet.webp)
 
-## Use This Pet
+## How to Use
 
 1. Open the preview page.
-2. Download the Codex pet package.
+2. Download the install-ready Codex pet package.
 3. Follow the install guide: [https://codexpets.org/install](https://codexpets.org/install).
+
+## Use with Codex
+
+```text
+Download and install this Codex pet package:
+https://codexpets.org/api/pets/capybara-coder/download
+```
 
 Back to the [full collection](../../README.md).

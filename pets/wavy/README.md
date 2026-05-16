@@ -12,10 +12,17 @@ Wavy is a tan-and-cream long-haired dog Codex pet with floppy ears, raised paws,
 - Manifest: [https://codexpets.org/pets/wavy/pet.json](https://codexpets.org/pets/wavy/pet.json)
 - Spritesheet: [https://codexpets.org/pets/wavy/spritesheet.webp](https://codexpets.org/pets/wavy/spritesheet.webp)
 
-## Use This Pet
+## How to Use
 
 1. Open the preview page.
-2. Download the Codex pet package.
+2. Download the install-ready Codex pet package.
 3. Follow the install guide: [https://codexpets.org/install](https://codexpets.org/install).
+
+## Use with Codex
+
+```text
+Download and install this Codex pet package:
+https://codexpets.org/api/pets/wavy/download
+```
 
 Back to the [full collection](../../README.md).

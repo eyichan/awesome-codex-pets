@@ -12,10 +12,17 @@ A tiny Happy Cat Codex pet based on a bouncing mostly white kitten, ready for an
 - Manifest: [https://codexpets.org/pets/happy-cat/pet.json](https://codexpets.org/pets/happy-cat/pet.json)
 - Spritesheet: [https://codexpets.org/pets/happy-cat/spritesheet.webp](https://codexpets.org/pets/happy-cat/spritesheet.webp)
 
-## Use This Pet
+## How to Use
 
 1. Open the preview page.
-2. Download the Codex pet package.
+2. Download the install-ready Codex pet package.
 3. Follow the install guide: [https://codexpets.org/install](https://codexpets.org/install).
+
+## Use with Codex
+
+```text
+Download and install this Codex pet package:
+https://codexpets.org/api/pets/happy-cat/download
+```
 
 Back to the [full collection](../../README.md).

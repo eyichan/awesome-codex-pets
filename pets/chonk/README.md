@@ -12,10 +12,17 @@ A chubby black cat Codex pet with big green eyes, a tiny pink nose, and playful 
 - Manifest: [https://codexpets.org/pets/chonk/pet.json](https://codexpets.org/pets/chonk/pet.json)
 - Spritesheet: [https://codexpets.org/pets/chonk/spritesheet.webp](https://codexpets.org/pets/chonk/spritesheet.webp)
 
-## Use This Pet
+## How to Use
 
 1. Open the preview page.
-2. Download the Codex pet package.
+2. Download the install-ready Codex pet package.
 3. Follow the install guide: [https://codexpets.org/install](https://codexpets.org/install).
+
+## Use with Codex
+
+```text
+Download and install this Codex pet package:
+https://codexpets.org/api/pets/chonk/download
+```
 
 Back to the [full collection](../../README.md).

@@ -12,10 +12,17 @@ Emma is a cream tabby Siamese cat Codex pet with cool gray-brown points and blue
 - Manifest: [https://codexpets.org/pets/emma/pet.json](https://codexpets.org/pets/emma/pet.json)
 - Spritesheet: [https://codexpets.org/pets/emma/spritesheet.webp](https://codexpets.org/pets/emma/spritesheet.webp)
 
-## Use This Pet
+## How to Use
 
 1. Open the preview page.
-2. Download the Codex pet package.
+2. Download the install-ready Codex pet package.
 3. Follow the install guide: [https://codexpets.org/install](https://codexpets.org/install).
+
+## Use with Codex
+
+```text
+Download and install this Codex pet package:
+https://codexpets.org/api/pets/emma/download
+```
 
 Back to the [full collection](../../README.md).

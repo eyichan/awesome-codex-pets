@@ -4,29 +4,24 @@
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
 [![Pets](https://img.shields.io/badge/downloadable%20pets-51-2f9e44)](./pets.json)
 
-A curated collection of downloadable Codex Pets.
+Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
-Codex Pets are small desktop coding companions for Codex workflows. Browse, preview, and download ready-to-use pets at [codexpets.org](https://codexpets.org).
+## What Are Codex Pets?
 
-## Quick Links
+Codex Pets are tiny animated desktop companions for Codex users and AI-assisted coding workflows.
 
-- Gallery: [https://codexpets.org/gallery](https://codexpets.org/gallery)
-- Builder: [https://codexpets.org/builder](https://codexpets.org/builder)
-- Preview tool: [https://codexpets.org/preview](https://codexpets.org/preview)
-- Install guide: [https://codexpets.org/install](https://codexpets.org/install)
+A Codex Pet is usually packaged as a small downloadable bundle with a manifest and a spritesheet. The manifest describes the pet, and the spritesheet provides animation frames for states such as idle, waiting, waving, review, or failed.
 
-## Featured Downloads
+The idea is simple: give your coding workspace a lightweight visual companion that can sit alongside long-running Codex workflows, make waiting states feel less empty, and make AI-assisted development more personal and shareable.
 
-| Pet | Description | Preview | Download |
-| --- | --- | --- | --- |
-| [Tater](./pets/tater/) | A tiny coding potato mascot with warm idle, waving, waiting, and review animations. | [Preview](https://codexpets.org/pets/tater) | [Download](https://codexpets.org/api/pets/tater/download) |
-| [Pixel Corgi](./pets/pixel-corgi/) | A compact corgi companion for testing animal-style Codex pet movement and waiting loops. | [Preview](https://codexpets.org/pets/pixel-corgi) | [Download](https://codexpets.org/api/pets/pixel-corgi/download) |
-| [Capybara Coder](./pets/capybara-coder/) | A calm pixel capybara coding companion with small glasses, a blue shirt, and friendly idle, waving, waiting, and review animations. | [Preview](https://codexpets.org/pets/capybara-coder) | [Download](https://codexpets.org/api/pets/capybara-coder/download) |
-| [Pixelcorn](./pets/pixelcorn/) | A playful pixel unicorn coding companion with a small terminal badge, soft rainbow mane, and friendly idle, waving, waiting, and review animations. | [Preview](https://codexpets.org/pets/pixelcorn) | [Download](https://codexpets.org/api/pets/pixelcorn/download) |
-| [Tilly](./pets/tilly/) | A fluffy long-haired calico kitty with a white chest ruff, pink nose, green-yellow eyes, and calm curious expression. | [Preview](https://codexpets.org/pets/tilly) | [Download](https://codexpets.org/api/pets/tilly/download) |
-| [Mochi](./pets/mochi/) | A cute chibi cat Codex pet with a soft mochi look, built as a downloadable animated desktop companion. | [Preview](https://codexpets.org/pets/mochi) | [Download](https://codexpets.org/api/pets/mochi/download) |
-| [Boxcat](./pets/boxcat/) | A tiny cardboard box cat Codex pet for cozy coding sessions, with animated desktop companion states. | [Preview](https://codexpets.org/pets/boxcat) | [Download](https://codexpets.org/api/pets/boxcat/download) |
-| [Doraemon](./pets/doraemon/) | A compact blue robot cat Codex pet inspired by Doraemon, packaged as an animated desktop mascot. | [Preview](https://codexpets.org/pets/doraemon) | [Download](https://codexpets.org/api/pets/doraemon/download) |
+Codex Pets is an independent community concept and utility. It is not an official OpenAI product.
+
+## Get a Codex Pet
+
+- Browse the gallery: [https://codexpets.org/gallery](https://codexpets.org/gallery)
+- Preview a package: [https://codexpets.org/preview](https://codexpets.org/preview)
+- Read the install guide: [https://codexpets.org/install](https://codexpets.org/install)
+- Build your own: [https://codexpets.org/builder](https://codexpets.org/builder)
 
 ## Collection
 
@@ -93,29 +88,25 @@ Codex Pets are small desktop coding companions for Codex workflows. Browse, prev
 
 - [Tater](./pets/tater/) - A tiny coding potato mascot with warm idle, waving, waiting, and review animations. [Preview](https://codexpets.org/pets/tater) | [Download](https://codexpets.org/api/pets/tater/download)
 
-## What's Inside Each Pet Entry
+## What's Inside Each Codex Pet
 
-Each pet directory follows the same lightweight format:
+Each pet entry points to the install-ready package and the source assets used by the package:
 
-| File | Purpose |
+| Item | Purpose |
 | --- | --- |
-| `README.md` | Human-readable pet card with preview, download, manifest, and spritesheet links |
-
-Each pet entry links to:
-
-| Link | Purpose |
-| --- | --- |
-| Preview page | Open the pet page on codexpets.org |
+| Pet page | Preview the pet and read its details |
 | Download endpoint | Download the install-ready Codex pet package |
-| Manifest | Inspect the pet metadata as `pet.json` |
-| Spritesheet | Inspect the pet animation spritesheet |
+| `pet.json` | Inspect the pet manifest |
+| `spritesheet.webp` | Inspect the animation spritesheet |
+| `pets/<pet-id>/README.md` | Read the GitHub catalog entry for one pet |
+| `pets.json` | Use the full machine-readable catalog |
 
-## How to Use
+### How to Use
 
-1. Pick a pet from the collection.
-2. Open its preview page on codexpets.org.
-3. Download the install-ready package.
-4. Follow the install guide: [https://codexpets.org/install](https://codexpets.org/install).
+1. Choose a pet from the collection.
+2. Open its preview page.
+3. Download the package.
+4. Follow the install guide.
 
 Example:
 
@@ -135,20 +126,11 @@ Download and install this Codex pet package:
 https://codexpets.org/api/pets/capybara-coder/download
 ```
 
-For custom pets, open the builder and describe what you want:
+## Create Your Own Codex Pet
 
-```text
+Use the builder to create or package your own pet:
+
 https://codexpets.org/builder
-```
-
-## Repository Files
-
-| File | Purpose |
-| --- | --- |
-| `README.md` | Curated human-readable catalog |
-| `pets.json` | Machine-readable catalog with preview, download, manifest, and spritesheet URLs |
-| `pets/<pet-id>/README.md` | Individual pet entry |
-| `CONTRIBUTING.md` | Contribution rules |
 
 ## Machine-Readable Catalog
 
@@ -160,16 +142,14 @@ Direct download URL pattern:
 https://codexpets.org/api/pets/{pet-id}/download
 ```
 
-## Create Your Own
-
-Use the Codex Pets builder to create or package your own pet:
-
-https://codexpets.org/builder
-
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md). New entries should point to working Codex Pets pages and download endpoints.
 
-## Disclaimer
+## License
 
-Codex Pets is an independent community utility. It is not an official OpenAI product.
+MIT
+
+## About
+
+This repository is maintained as a public awesome-style collection for discovering downloadable Codex Pets. The canonical site is [codexpets.org](https://codexpets.org).
