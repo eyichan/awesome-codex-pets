@@ -12,16 +12,15 @@ Codex Pets are tiny animated desktop companions for Codex users and AI-assisted 
 
 A Codex Pet is usually packaged as a small downloadable bundle with a manifest and a spritesheet. The manifest describes the pet, and the spritesheet provides animation frames for states such as idle, waiting, waving, review, or failed.
 
-The idea is simple: give your coding workspace a lightweight visual companion that can sit alongside long-running Codex workflows, make waiting states feel less empty, and make AI-assisted development more personal and shareable.
+The idea is simple: give your coding workspace a lightweight visual companion that can sit alongside long-running Codex workflows, make waiting states feel less empty, and make AI-assisted development more personal and shareable. If traditional desktop pets make an operating system feel more alive, Codex Pets bring that same small companion pattern into AI coding sessions and agent waiting states.
 
 Codex Pets is an independent community concept and utility. It is not an official OpenAI product.
 
 ## Get a Codex Pet
 
-- Browse the gallery: [https://codexpets.org/gallery](https://codexpets.org/gallery)
-- Preview a package: [https://codexpets.org/preview](https://codexpets.org/preview)
-- Read the install guide: [https://codexpets.org/install](https://codexpets.org/install)
-- Build your own: [https://codexpets.org/builder](https://codexpets.org/builder)
+Start with the gallery: [https://codexpets.org/gallery](https://codexpets.org/gallery)
+
+From there, choose a pet, open its preview page, and download the install-ready package. You can also use the [preview tool](https://codexpets.org/preview), follow the [install guide](https://codexpets.org/install), or [build your own Codex Pet](https://codexpets.org/builder).
 
 ## Collection
 
@@ -90,16 +89,14 @@ Codex Pets is an independent community concept and utility. It is not an officia
 
 ## What's Inside Each Codex Pet
 
-Each pet entry points to the install-ready package and the source assets used by the package:
+Each Codex Pet package follows the same basic shape:
 
-| Item | Purpose |
+| Part | Purpose |
 | --- | --- |
-| Pet page | Preview the pet and read its details |
-| Download endpoint | Download the install-ready Codex pet package |
-| `pet.json` | Inspect the pet manifest |
-| `spritesheet.webp` | Inspect the animation spritesheet |
-| `pets/<pet-id>/README.md` | Read the GitHub catalog entry for one pet |
-| `pets.json` | Use the full machine-readable catalog |
+| `pet.json` | Describes the pet name, id, description, and spritesheet path |
+| `spritesheet.webp` | Provides animation frames for visual states such as idle, waiting, waving, review, or failed |
+| Download package | Bundles the manifest and spritesheet into an install-ready Codex Pet |
+| Pet page | Lets you preview the pet before downloading |
 
 ### How to Use
 
@@ -144,11 +141,13 @@ https://codexpets.org/api/pets/{pet-id}/download
 
 ## Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md). New entries should point to working Codex Pets pages and download endpoints.
+New entries should point to working Codex Pets pages and download endpoints. Good contributions include new downloadable pets, clearer descriptions, fixed links, better categorization, and metadata corrections.
+
+For larger catalog changes or new contribution rules, open an issue first so the collection can stay curated. See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## License
 
-MIT
+MIT. This repository is a community catalog and may reference names, characters, brands, or visual ideas that belong to their respective owners. Those references are for identification and discovery only and do not imply endorsement, ownership, or affiliation.
 
 ## About
 
