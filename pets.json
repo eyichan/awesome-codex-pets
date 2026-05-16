@@ -1,0 +1,920 @@
+[
+  {
+    "id": "tater",
+    "displayName": "Tater",
+    "description": "A tiny coding potato mascot with warm idle, waving, waiting, and review animations.",
+    "author": "Alex",
+    "kind": "creature",
+    "tags": [
+      "starter",
+      "pixel",
+      "animated",
+      "mascot"
+    ],
+    "pageUrl": "https://codexpets.org/pets/tater",
+    "downloadUrl": "https://codexpets.org/api/pets/tater/download",
+    "spritesheetUrl": "https://codexpets.org/pets/tater/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/tater/pet.json"
+  },
+  {
+    "id": "pixel-corgi",
+    "displayName": "Pixel Corgi",
+    "description": "A compact corgi companion for testing animal-style Codex pet movement and waiting loops.",
+    "author": "Alex",
+    "kind": "animal",
+    "tags": [
+      "cute",
+      "pixel",
+      "animated"
+    ],
+    "pageUrl": "https://codexpets.org/pets/pixel-corgi",
+    "downloadUrl": "https://codexpets.org/api/pets/pixel-corgi/download",
+    "spritesheetUrl": "https://codexpets.org/pets/pixel-corgi/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/pixel-corgi/pet.json"
+  },
+  {
+    "id": "capybara-coder",
+    "displayName": "Capybara Coder",
+    "description": "A calm pixel capybara coding companion with small glasses, a blue shirt, and friendly idle, waving, waiting, and review animations.",
+    "author": "Alex",
+    "kind": "animal",
+    "tags": [
+      "pixel",
+      "coding",
+      "calm"
+    ],
+    "pageUrl": "https://codexpets.org/pets/capybara-coder",
+    "downloadUrl": "https://codexpets.org/api/pets/capybara-coder/download",
+    "spritesheetUrl": "https://codexpets.org/pets/capybara-coder/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/capybara-coder/pet.json"
+  },
+  {
+    "id": "pixelcorn",
+    "displayName": "Pixelcorn",
+    "description": "A playful pixel unicorn coding companion with a small terminal badge, soft rainbow mane, and friendly idle, waving, waiting, and review animations.",
+    "author": "Alex",
+    "kind": "animal",
+    "tags": [
+      "pixel",
+      "coding",
+      "rainbow"
+    ],
+    "pageUrl": "https://codexpets.org/pets/pixelcorn",
+    "downloadUrl": "https://codexpets.org/api/pets/pixelcorn/download",
+    "spritesheetUrl": "https://codexpets.org/pets/pixelcorn/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/pixelcorn/pet.json"
+  },
+  {
+    "id": "tilly",
+    "displayName": "Tilly",
+    "description": "A fluffy long-haired calico kitty with a white chest ruff, pink nose, green-yellow eyes, and calm curious expression.",
+    "author": "Clutch",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "cute",
+      "soft",
+      "calico"
+    ],
+    "pageUrl": "https://codexpets.org/pets/tilly",
+    "downloadUrl": "https://codexpets.org/api/pets/tilly/download",
+    "spritesheetUrl": "https://codexpets.org/pets/tilly/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/tilly/pet.json"
+  },
+  {
+    "id": "mochi",
+    "displayName": "Mochi",
+    "description": "A cute chibi cat Codex pet with a soft mochi look, built as a downloadable animated desktop companion.",
+    "author": "Aoi",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "chibi",
+      "mochi",
+      "companion",
+      "cozy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/mochi",
+    "downloadUrl": "https://codexpets.org/api/pets/mochi/download",
+    "spritesheetUrl": "https://codexpets.org/pets/mochi/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/mochi/pet.json"
+  },
+  {
+    "id": "boxcat",
+    "displayName": "Boxcat",
+    "description": "A tiny cardboard box cat Codex pet for cozy coding sessions, with animated desktop companion states.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "box",
+      "cozy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/boxcat",
+    "downloadUrl": "https://codexpets.org/api/pets/boxcat/download",
+    "spritesheetUrl": "https://codexpets.org/pets/boxcat/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/boxcat/pet.json"
+  },
+  {
+    "id": "doraemon",
+    "displayName": "Doraemon",
+    "description": "A compact blue robot cat Codex pet inspired by Doraemon, packaged as an animated desktop mascot.",
+    "author": "korkyzer",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "robot-cat",
+      "blue",
+      "mascot",
+      "desktop"
+    ],
+    "pageUrl": "https://codexpets.org/pets/doraemon",
+    "downloadUrl": "https://codexpets.org/api/pets/doraemon/download",
+    "spritesheetUrl": "https://codexpets.org/pets/doraemon/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/doraemon/pet.json"
+  },
+  {
+    "id": "happy-cat",
+    "displayName": "Happy Cat",
+    "description": "A tiny Happy Cat Codex pet based on a bouncing mostly white kitten, ready for animated desktop previews.",
+    "author": "1r1l2e6pkjj6vfgb69",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "kitten",
+      "mostly-white",
+      "bouncing",
+      "behind-glass"
+    ],
+    "pageUrl": "https://codexpets.org/pets/happy-cat",
+    "downloadUrl": "https://codexpets.org/api/pets/happy-cat/download",
+    "spritesheetUrl": "https://codexpets.org/pets/happy-cat/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/happy-cat/pet.json"
+  },
+  {
+    "id": "calico",
+    "displayName": "Calico",
+    "description": "A chibi calico cat Codex pet with black and orange patches, a pink nose, and expressive animated ears.",
+    "author": "Serhat",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "calico",
+      "chibi",
+      "pink-nose",
+      "expressive-ears"
+    ],
+    "pageUrl": "https://codexpets.org/pets/calico",
+    "downloadUrl": "https://codexpets.org/api/pets/calico/download",
+    "spritesheetUrl": "https://codexpets.org/pets/calico/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/calico/pet.json"
+  },
+  {
+    "id": "marmalade",
+    "displayName": "Marmalade",
+    "description": "A cheerful orange tabby cat Codex pet for users who want a warm animated desktop companion.",
+    "author": "danielpvictorino",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "marmalade",
+      "orange",
+      "tabby",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/marmalade",
+    "downloadUrl": "https://codexpets.org/api/pets/marmalade/download",
+    "spritesheetUrl": "https://codexpets.org/pets/marmalade/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/marmalade/pet.json"
+  },
+  {
+    "id": "miso",
+    "displayName": "Miso",
+    "description": "Miso is a blue-eyed white kitten Codex pet with a pink nose and soft gray tabby cap markings.",
+    "author": "Brian C.",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "kitten",
+      "white",
+      "blue-eyed",
+      "pink-nose"
+    ],
+    "pageUrl": "https://codexpets.org/pets/miso",
+    "downloadUrl": "https://codexpets.org/api/pets/miso/download",
+    "spritesheetUrl": "https://codexpets.org/pets/miso/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/miso/pet.json"
+  },
+  {
+    "id": "foxat",
+    "displayName": "Foxat",
+    "description": "A cosmic fox cat Codex pet with subtle robot traits, made as a calm animated research companion.",
+    "author": "Kuzjaaaa",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "fox-cat",
+      "robot",
+      "research-assistant",
+      "cosmic"
+    ],
+    "pageUrl": "https://codexpets.org/pets/foxat",
+    "downloadUrl": "https://codexpets.org/api/pets/foxat/download",
+    "spritesheetUrl": "https://codexpets.org/pets/foxat/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/foxat/pet.json"
+  },
+  {
+    "id": "chonk",
+    "displayName": "Chonk",
+    "description": "A chubby black cat Codex pet with big green eyes, a tiny pink nose, and playful desktop animations.",
+    "author": "Marcus F.",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "black-cat",
+      "green-eyes",
+      "tiny-pink-nose",
+      "chubby"
+    ],
+    "pageUrl": "https://codexpets.org/pets/chonk",
+    "downloadUrl": "https://codexpets.org/api/pets/chonk/download",
+    "spritesheetUrl": "https://codexpets.org/pets/chonk/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/chonk/pet.json"
+  },
+  {
+    "id": "siam",
+    "displayName": "Siam",
+    "description": "A tiny Siamese cat Codex pet with dark points and bright blue eyes, packaged for animated previews.",
+    "author": "Jaden T.",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "siamese",
+      "cream",
+      "dark-points",
+      "bright-blue-eyes"
+    ],
+    "pageUrl": "https://codexpets.org/pets/siam",
+    "downloadUrl": "https://codexpets.org/api/pets/siam/download",
+    "spritesheetUrl": "https://codexpets.org/pets/siam/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/siam/pet.json"
+  },
+  {
+    "id": "figaro-2",
+    "displayName": "Figaro",
+    "description": "Figaro is a black shorthair cat Codex pet with green-yellow eyes, white whiskers, and glossy animated fur.",
+    "author": "andrew-girgis",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "black-shorthair",
+      "green-yellow-eyes",
+      "white-whiskers",
+      "pointed-ears"
+    ],
+    "pageUrl": "https://codexpets.org/pets/figaro-2",
+    "downloadUrl": "https://codexpets.org/api/pets/figaro-2/download",
+    "spritesheetUrl": "https://codexpets.org/pets/figaro-2/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/figaro-2/pet.json"
+  },
+  {
+    "id": "shrimpy",
+    "displayName": "Shrimpy",
+    "description": "Shrimpy is a cuddly real-life cat reimagined as a cozy Codex pet for gentle animated coding sessions.",
+    "author": "aikusan",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "desk-companion",
+      "coder",
+      "cuddly",
+      "cozy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/shrimpy",
+    "downloadUrl": "https://codexpets.org/api/pets/shrimpy/download",
+    "spritesheetUrl": "https://codexpets.org/pets/shrimpy/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/shrimpy/pet.json"
+  },
+  {
+    "id": "harry-poptart",
+    "displayName": "Harry Poptart",
+    "description": "A rainbow pop tart cat Codex pet with round glasses, made for goofy animated focus energy.",
+    "author": "Travis F.",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "poptart",
+      "rainbow",
+      "round-glasses",
+      "goofy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/harry-poptart",
+    "downloadUrl": "https://codexpets.org/api/pets/harry-poptart/download",
+    "spritesheetUrl": "https://codexpets.org/pets/harry-poptart/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/harry-poptart/pet.json"
+  },
+  {
+    "id": "ditta",
+    "displayName": "Ditta",
+    "description": "A quiet black cat Codex pet with yellow eyes and white whiskers for a calm animated desktop companion.",
+    "author": "Asdrúbal C.",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "black",
+      "yellow-eyes",
+      "white-whiskers",
+      "companion"
+    ],
+    "pageUrl": "https://codexpets.org/pets/ditta",
+    "downloadUrl": "https://codexpets.org/api/pets/ditta/download",
+    "spritesheetUrl": "https://codexpets.org/pets/ditta/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/ditta/pet.json"
+  },
+  {
+    "id": "mallow",
+    "displayName": "Mallow",
+    "description": "Mallow is a plush gray and white bicolor cat Codex pet with gold eyes, white paws, and a serious expression.",
+    "author": "Aidil",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "gray-white",
+      "gold-eyes",
+      "bicolor",
+      "serious"
+    ],
+    "pageUrl": "https://codexpets.org/pets/mallow",
+    "downloadUrl": "https://codexpets.org/api/pets/mallow/download",
+    "spritesheetUrl": "https://codexpets.org/pets/mallow/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/mallow/pet.json"
+  },
+  {
+    "id": "whip",
+    "displayName": "Whip",
+    "description": "An orange cowboy cat Codex pet with a tiny western outfit and coiled whip, ready for animated previews.",
+    "author": "Deeksha73",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "orange",
+      "cowboy-outfit",
+      "whip",
+      "western"
+    ],
+    "pageUrl": "https://codexpets.org/pets/whip",
+    "downloadUrl": "https://codexpets.org/api/pets/whip/download",
+    "spritesheetUrl": "https://codexpets.org/pets/whip/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/whip/pet.json"
+  },
+  {
+    "id": "emma",
+    "displayName": "Emma",
+    "description": "Emma is a cream tabby Siamese cat Codex pet with cool gray-brown points and blue animated eyes.",
+    "author": "nachoestevo",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "siamese",
+      "cream-tabby",
+      "gray-brown-points",
+      "blue-eyes"
+    ],
+    "pageUrl": "https://codexpets.org/pets/emma",
+    "downloadUrl": "https://codexpets.org/api/pets/emma/download",
+    "spritesheetUrl": "https://codexpets.org/pets/emma/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/emma/pet.json"
+  },
+  {
+    "id": "sima",
+    "displayName": "Sima",
+    "description": "Sima is a memorial cat Codex pet created as a warm animated desktop tribute to a beloved companion.",
+    "author": "Костянтин Б.",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "memorial",
+      "remembrance",
+      "companion",
+      "melancholic"
+    ],
+    "pageUrl": "https://codexpets.org/pets/sima",
+    "downloadUrl": "https://codexpets.org/api/pets/sima/download",
+    "spritesheetUrl": "https://codexpets.org/pets/sima/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/sima/pet.json"
+  },
+  {
+    "id": "mimi-2",
+    "displayName": "Mimi",
+    "description": "Mimi is a silver tabby American Shorthair Codex pet with a clean animated desktop companion style.",
+    "author": "Jerry C.",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "american-shorthair",
+      "silver-tabby",
+      "companion",
+      "cozy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/mimi-2",
+    "downloadUrl": "https://codexpets.org/api/pets/mimi-2/download",
+    "spritesheetUrl": "https://codexpets.org/pets/mimi-2/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/mimi-2/pet.json"
+  },
+  {
+    "id": "ding-ding",
+    "displayName": "DING DING",
+    "description": "DING DING is a yellow space cat Codex pet with pink antennae and a playful red fries carton.",
+    "author": "kevwuzy",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "space-cat",
+      "yellow",
+      "pink-antennae",
+      "red-fries-carton"
+    ],
+    "pageUrl": "https://codexpets.org/pets/ding-ding",
+    "downloadUrl": "https://codexpets.org/api/pets/ding-ding/download",
+    "spritesheetUrl": "https://codexpets.org/pets/ding-ding/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/ding-ding/pet.json"
+  },
+  {
+    "id": "siri",
+    "displayName": "Siri",
+    "description": "Siri is a Maine Coon cat Codex pet created to celebrate recovery, with a wholesome animated companion feel.",
+    "author": "adrenaline2389",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "maine-coon",
+      "recovery",
+      "thigh-fracture",
+      "commemorative"
+    ],
+    "pageUrl": "https://codexpets.org/pets/siri",
+    "downloadUrl": "https://codexpets.org/api/pets/siri/download",
+    "spritesheetUrl": "https://codexpets.org/pets/siri/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/siri/pet.json"
+  },
+  {
+    "id": "pupu",
+    "displayName": "PUPU",
+    "description": "PUPU is a golden British Shorthair cat Codex pet with a soft coat and cute animated desktop states.",
+    "author": "nomanplay",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "british-shorthair",
+      "golden",
+      "creamy-undercoat",
+      "fluffy-ear-tufts"
+    ],
+    "pageUrl": "https://codexpets.org/pets/pupu",
+    "downloadUrl": "https://codexpets.org/api/pets/pupu/download",
+    "spritesheetUrl": "https://codexpets.org/pets/pupu/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/pupu/pet.json"
+  },
+  {
+    "id": "palantir-patrick",
+    "displayName": "Palantir Patrick",
+    "description": "A compact pixel pet based on Patrick wearing a Palantir cap and white AI shirt while holding a small black pistol-shaped prop.",
+    "author": "Palantir",
+    "kind": "person",
+    "tags": [
+      "person",
+      "pixel",
+      "coding",
+      "ai"
+    ],
+    "pageUrl": "https://codexpets.org/pets/palantir-patrick",
+    "downloadUrl": "https://codexpets.org/api/pets/palantir-patrick/download",
+    "spritesheetUrl": "https://codexpets.org/pets/palantir-patrick/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/palantir-patrick/pet.json"
+  },
+  {
+    "id": "doge",
+    "displayName": "Doge",
+    "description": "A cute Doge-style Shiba Inu companion for Codex.",
+    "author": "Seymour",
+    "kind": "animal",
+    "tags": [
+      "cute",
+      "doge",
+      "shiba"
+    ],
+    "pageUrl": "https://codexpets.org/pets/doge",
+    "downloadUrl": "https://codexpets.org/api/pets/doge/download",
+    "spritesheetUrl": "https://codexpets.org/pets/doge/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/doge/pet.json"
+  },
+  {
+    "id": "chedarini",
+    "displayName": "Chedarini",
+    "description": "Chedarini is a tan chihuahua Codex dog pet with glossy eyes, folded ears, and playful desktop animations.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "chihuahua",
+      "tan",
+      "glossy-eyes",
+      "pink-nose",
+      "derpy-expression"
+    ],
+    "pageUrl": "https://codexpets.org/pets/chedarini",
+    "downloadUrl": "https://codexpets.org/api/pets/chedarini/download",
+    "spritesheetUrl": "https://codexpets.org/pets/chedarini/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/chedarini/pet.json"
+  },
+  {
+    "id": "corgi-cool",
+    "displayName": "Corgi Cool",
+    "description": "Corgi Cool is a stylish sunglass-wearing corgi Codex pet for playful animated desktop companionship.",
+    "author": "Nicolas C.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "corgi",
+      "black-sunglasses",
+      "short-legs",
+      "expressive",
+      "playful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/corgi-cool",
+    "downloadUrl": "https://codexpets.org/api/pets/corgi-cool/download",
+    "spritesheetUrl": "https://codexpets.org/pets/corgi-cool/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/corgi-cool/pet.json"
+  },
+  {
+    "id": "daisy",
+    "displayName": "Daisy",
+    "description": "Daisy is an English bulldog Codex pet with a chonky pixel-art body, glossy eyes, and a hot-pink plush toy.",
+    "author": "Chris S.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "english-bulldog",
+      "tube-dog",
+      "chonker",
+      "glossy-eyes",
+      "hot-pink-toy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/daisy",
+    "downloadUrl": "https://codexpets.org/api/pets/daisy/download",
+    "spritesheetUrl": "https://codexpets.org/pets/daisy/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/daisy/pet.json"
+  },
+  {
+    "id": "lando-2",
+    "displayName": "Lando Border Collie",
+    "description": "Lando Border Collie is a black-and-white Border Collie Codex pet with a friendly expression and helpful energy.",
+    "author": "Matti V.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "border-collie",
+      "black-and-white",
+      "companion",
+      "friendly",
+      "wholesome"
+    ],
+    "pageUrl": "https://codexpets.org/pets/lando-2",
+    "downloadUrl": "https://codexpets.org/api/pets/lando-2/download",
+    "spritesheetUrl": "https://codexpets.org/pets/lando-2/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/lando-2/pet.json"
+  },
+  {
+    "id": "lemon",
+    "displayName": "Lemon",
+    "description": "Lemon is a cream-white dog Codex pet with caramel ears, a fox-like face, and bright animated eyes.",
+    "author": "shuyanliu6",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "cream-white",
+      "caramel-ears",
+      "fox-like-face",
+      "cozy",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/lemon",
+    "downloadUrl": "https://codexpets.org/api/pets/lemon/download",
+    "spritesheetUrl": "https://codexpets.org/pets/lemon/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/lemon/pet.json"
+  },
+  {
+    "id": "luna",
+    "displayName": "Luna",
+    "description": "Luna is a small black dog Codex pet with bright blue eyes, a white chest patch, and playful desktop states.",
+    "author": "mcgraf",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "black",
+      "blue-eyes",
+      "white-chest",
+      "back-paws",
+      "playful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/luna",
+    "downloadUrl": "https://codexpets.org/api/pets/luna/download",
+    "spritesheetUrl": "https://codexpets.org/pets/luna/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/luna/pet.json"
+  },
+  {
+    "id": "maltese",
+    "displayName": "Maltese",
+    "description": "Maltese is a lively white Maltese Codex dog pet with a big-heart companion feel and animated previews.",
+    "author": "donmoney",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "desk-companion",
+      "white",
+      "cute"
+    ],
+    "pageUrl": "https://codexpets.org/pets/maltese",
+    "downloadUrl": "https://codexpets.org/api/pets/maltese/download",
+    "spritesheetUrl": "https://codexpets.org/pets/maltese/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/maltese/pet.json"
+  },
+  {
+    "id": "maple",
+    "displayName": "Maple",
+    "description": "Maple is a ruby Cavalier King Charles Spaniel Codex pet with a playful toy-dog look and animated states.",
+    "author": "eva030619",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "cavalier-king-charles-spaniel",
+      "ruby",
+      "toy-breed",
+      "red-coat",
+      "playful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/maple",
+    "downloadUrl": "https://codexpets.org/api/pets/maple/download",
+    "spritesheetUrl": "https://codexpets.org/pets/maple/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/maple/pet.json"
+  },
+  {
+    "id": "milo",
+    "displayName": "Milo",
+    "description": "Milo is a fluffy Coton de Tulear Codex dog pet with tan ears, dark eyes, and a tongue-out smile.",
+    "author": "andrew-girgis",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "coton-de-tulear",
+      "fluffy",
+      "white",
+      "tan-ears",
+      "tongue-out"
+    ],
+    "pageUrl": "https://codexpets.org/pets/milo",
+    "downloadUrl": "https://codexpets.org/api/pets/milo/download",
+    "spritesheetUrl": "https://codexpets.org/pets/milo/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/milo/pet.json"
+  },
+  {
+    "id": "misty",
+    "displayName": "Misty",
+    "description": "Misty is a happy Border Collie Codex pet for users who want a cheerful animated dog companion.",
+    "author": "Lee D.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "border-collie",
+      "happy",
+      "herding",
+      "friendly",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/misty",
+    "downloadUrl": "https://codexpets.org/api/pets/misty/download",
+    "spritesheetUrl": "https://codexpets.org/pets/misty/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/misty/pet.json"
+  },
+  {
+    "id": "nemo-corgi",
+    "displayName": "Nemo Corgi",
+    "description": "Nemo Corgi is an orange-and-white plush corgi Codex pet inspired by a 3D turnaround reference.",
+    "author": "shmilyxi",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "corgi",
+      "plush",
+      "orange-and-white",
+      "tiny",
+      "cozy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/nemo-corgi",
+    "downloadUrl": "https://codexpets.org/api/pets/nemo-corgi/download",
+    "spritesheetUrl": "https://codexpets.org/pets/nemo-corgi/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/nemo-corgi/pet.json"
+  },
+  {
+    "id": "peach",
+    "displayName": "Peach",
+    "description": "Peach is a big-eared corgi Codex dog pet with tiny digital-pet charm and playful animated states.",
+    "author": "ivbutsykin",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "corgi",
+      "big-eared",
+      "peach",
+      "pixel",
+      "tiny"
+    ],
+    "pageUrl": "https://codexpets.org/pets/peach",
+    "downloadUrl": "https://codexpets.org/api/pets/peach/download",
+    "spritesheetUrl": "https://codexpets.org/pets/peach/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/peach/pet.json"
+  },
+  {
+    "id": "purplewolf",
+    "displayName": "purplewolf",
+    "description": "purplewolf is a purple chibi wolfdog Codex pet with a bow tie, handheld device, and cheerful animations.",
+    "author": "Vinson S.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "wolfdog",
+      "chibi",
+      "purple",
+      "bow-tie",
+      "handheld-device"
+    ],
+    "pageUrl": "https://codexpets.org/pets/purplewolf",
+    "downloadUrl": "https://codexpets.org/api/pets/purplewolf/download",
+    "spritesheetUrl": "https://codexpets.org/pets/purplewolf/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/purplewolf/pet.json"
+  },
+  {
+    "id": "ramzes",
+    "displayName": "Ramzes",
+    "description": "Ramzes is a black French bulldog Codex pet with a white chest patch and happy playful animations.",
+    "author": "Giedrius R.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "french-bulldog",
+      "black",
+      "white-chest",
+      "ramzes",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/ramzes",
+    "downloadUrl": "https://codexpets.org/api/pets/ramzes/download",
+    "spritesheetUrl": "https://codexpets.org/pets/ramzes/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/ramzes/pet.json"
+  },
+  {
+    "id": "rio",
+    "displayName": "Rio",
+    "description": "Rio is a goofy pug Codex dog pet with playful expression and compact animated desktop companion states.",
+    "author": "sojan-official",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "pug",
+      "goofy",
+      "wrinkled-face",
+      "companion",
+      "playful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/rio",
+    "downloadUrl": "https://codexpets.org/api/pets/rio/download",
+    "spritesheetUrl": "https://codexpets.org/pets/rio/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/rio/pet.json"
+  },
+  {
+    "id": "stout-corgi",
+    "displayName": "Stout Corgi",
+    "description": "Stout Corgi is a tan corgi-mutt Codex pet with upright ears, short legs, and a white chest patch.",
+    "author": "Strictly O.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "corgi",
+      "tan",
+      "short-legs",
+      "upright-ears",
+      "white-chest"
+    ],
+    "pageUrl": "https://codexpets.org/pets/stout-corgi",
+    "downloadUrl": "https://codexpets.org/api/pets/stout-corgi/download",
+    "spritesheetUrl": "https://codexpets.org/pets/stout-corgi/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/stout-corgi/pet.json"
+  },
+  {
+    "id": "tofu",
+    "displayName": "Tofu",
+    "description": "Tofu is a cheerful tan-and-white dog Codex pet with a yellow collar, based on the provided photo.",
+    "author": "Toan H.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "tan-and-white",
+      "yellow-collar",
+      "photo-reference",
+      "smiling",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/tofu",
+    "downloadUrl": "https://codexpets.org/api/pets/tofu/download",
+    "spritesheetUrl": "https://codexpets.org/pets/tofu/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/tofu/pet.json"
+  },
+  {
+    "id": "wavy",
+    "displayName": "Wavy",
+    "description": "Wavy is a tan-and-cream long-haired dog Codex pet with floppy ears, raised paws, and cozy animations.",
+    "author": "ceverytime",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "long-haired",
+      "tan-and-cream",
+      "floppy-ears",
+      "raised-paws",
+      "cozy"
+    ],
+    "pageUrl": "https://codexpets.org/pets/wavy",
+    "downloadUrl": "https://codexpets.org/api/pets/wavy/download",
+    "spritesheetUrl": "https://codexpets.org/pets/wavy/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/wavy/pet.json"
+  },
+  {
+    "id": "wif",
+    "displayName": "WIF",
+    "description": "WIF is a chibi Shiba Inu Codex pet with golden fur, a curled tail, and a pink knitted beanie.",
+    "author": "John Rafael R.",
+    "kind": "animal",
+    "tags": [
+      "dog",
+      "shiba-inu",
+      "golden-fur",
+      "cream-belly",
+      "curled-tail",
+      "pink-beanie"
+    ],
+    "pageUrl": "https://codexpets.org/pets/wif",
+    "downloadUrl": "https://codexpets.org/api/pets/wif/download",
+    "spritesheetUrl": "https://codexpets.org/pets/wif/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/wif/pet.json"
+  },
+  {
+    "id": "elvis",
+    "displayName": "Elvis",
+    "description": "A tiny Elvis-inspired digital pet with a pompadour, white jumpsuit, and stage-ready charm.",
+    "author": "Seymour",
+    "kind": "person",
+    "tags": [
+      "person",
+      "celeb",
+      "pixel",
+      "animated"
+    ],
+    "pageUrl": "https://codexpets.org/pets/elvis",
+    "downloadUrl": "https://codexpets.org/api/pets/elvis/download",
+    "spritesheetUrl": "https://codexpets.org/pets/elvis/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/elvis/pet.json"
+  },
+  {
+    "id": "ella-wave",
+    "displayName": "Ella Wave",
+    "description": "A tiny Codex digital pet inspired by Ella, a curious black-and-white cat with chartreuse eyes, a pink nose, mask-like face patches, white chest, and a warm orange flank patch.",
+    "author": "sehjk",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "cute",
+      "animated"
+    ],
+    "pageUrl": "https://codexpets.org/pets/ella-wave",
+    "downloadUrl": "https://codexpets.org/api/pets/ella-wave/download",
+    "spritesheetUrl": "https://codexpets.org/pets/ella-wave/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/ella-wave/pet.json"
+  },
+  {
+    "id": "review-bot",
+    "displayName": "Review Bot",
+    "description": "A small terminal-shaped helper built for review, failed, and waiting state previews.",
+    "author": "Alex",
+    "kind": "object",
+    "tags": [
+      "object",
+      "terminal",
+      "review",
+      "utility"
+    ],
+    "pageUrl": "https://codexpets.org/pets/review-bot",
+    "downloadUrl": "https://codexpets.org/api/pets/review-bot/download",
+    "spritesheetUrl": "https://codexpets.org/pets/review-bot/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/review-bot/pet.json"
+  }
+]
