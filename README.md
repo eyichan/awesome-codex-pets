@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
-[![Pets](https://img.shields.io/badge/downloadable%20pets-51-2f9e44)](./pets.json)
+[![Pets](https://img.shields.io/badge/downloadable%20pets-59-2f9e44)](./pets.json)
 
 Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
@@ -72,6 +72,12 @@ From there, choose a pet, open its preview page, and download the install-ready 
 - [Tofu](./pets/tofu/) - Tofu is a cheerful tan-and-white dog Codex pet with a yellow collar, based on the provided photo. [Preview](https://codexpets.org/pets/tofu) | [Download](https://codexpets.org/api/pets/tofu/download)
 - [Wavy](./pets/wavy/) - Wavy is a tan-and-cream long-haired dog Codex pet with floppy ears, raised paws, and cozy animations. [Preview](https://codexpets.org/pets/wavy) | [Download](https://codexpets.org/api/pets/wavy/download)
 - [WIF](./pets/wif/) - WIF is a chibi Shiba Inu Codex pet with golden fur, a curled tail, and a pink knitted beanie. [Preview](https://codexpets.org/pets/wif) | [Download](https://codexpets.org/api/pets/wif/download)
+- [Byte Bunny](./pets/byte-bunny/) - Byte Bunny is a tiny rabbit Codex pet carrying a keyboard key charm for focused coding sessions. [Preview](https://codexpets.org/pets/byte-bunny) | [Download](https://codexpets.org/api/pets/byte-bunny/download)
+- [Cache Capy](./pets/cache-capy/) - Cache Capy is a calm capybara Codex pet carrying a tiny cache box for patient build loops. [Preview](https://codexpets.org/pets/cache-capy) | [Download](https://codexpets.org/api/pets/cache-capy/download)
+- [Prompt Penguin](./pets/prompt-penguin/) - Prompt Penguin is a small penguin Codex pet holding a folded prompt scroll for focused AI workflows. [Preview](https://codexpets.org/pets/prompt-penguin) | [Download](https://codexpets.org/api/pets/prompt-penguin/download)
+- [Boba](./pets/boba/) - Boba is a tiny otter Codex pet sipping bubble tea while keeping a cozy desktop companion rhythm. [Preview](https://codexpets.org/pets/boba) | [Download](https://codexpets.org/api/pets/boba/download)
+- [Canary](./pets/canary/) - Canary is a tiny yellow bird Codex pet with a rounded head and compact companion body. [Preview](https://codexpets.org/pets/canary) | [Download](https://codexpets.org/api/pets/canary/download)
+- [Froggle](./pets/froggle/) - Froggle is a small green frog-like Codex pet with leafy tufts, curly antennae, and cheerful desktop animations. [Preview](https://codexpets.org/pets/froggle) | [Download](https://codexpets.org/api/pets/froggle/download)
 - [Ella Wave](./pets/ella-wave/) - A tiny Codex digital pet inspired by Ella, a curious black-and-white cat with chartreuse eyes, a pink nose, mask-like face patches, white chest, and a warm orange flank patch. [Preview](https://codexpets.org/pets/ella-wave) | [Download](https://codexpets.org/api/pets/ella-wave/download)
 
 ### Objects
@@ -86,6 +92,8 @@ From there, choose a pet, open its preview page, and download the install-ready 
 ### Creatures
 
 - [Tater](./pets/tater/) - A tiny coding potato mascot with warm idle, waving, waiting, and review animations. [Preview](https://codexpets.org/pets/tater) | [Download](https://codexpets.org/api/pets/tater/download)
+- [Lint Sprout](./pets/lint-sprout/) - Lint Sprout is a tidy cleanup sprout Codex pet with leaf ears and a chunky broom for code polish. [Preview](https://codexpets.org/pets/lint-sprout) | [Download](https://codexpets.org/api/pets/lint-sprout/download)
+- [Aqua Wisp](./pets/aqua-wisp/) - Aqua Wisp is a teal helper spirit Codex pet with fin wings and a gentle curious expression. [Preview](https://codexpets.org/pets/aqua-wisp) | [Download](https://codexpets.org/api/pets/aqua-wisp/download)
 
 ## What's Inside Each Codex Pet
 

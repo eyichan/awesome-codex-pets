@@ -868,6 +868,146 @@
     "manifestUrl": "https://codexpets.org/pets/wif/pet.json"
   },
   {
+    "id": "byte-bunny",
+    "displayName": "Byte Bunny",
+    "description": "Byte Bunny is a tiny rabbit Codex pet carrying a keyboard key charm for focused coding sessions.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "rabbit",
+      "keyboard",
+      "coding",
+      "focused"
+    ],
+    "pageUrl": "https://codexpets.org/pets/byte-bunny",
+    "downloadUrl": "https://codexpets.org/api/pets/byte-bunny/download",
+    "spritesheetUrl": "https://codexpets.org/pets/byte-bunny/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/byte-bunny/pet.json"
+  },
+  {
+    "id": "cache-capy",
+    "displayName": "Cache Capy",
+    "description": "Cache Capy is a calm capybara Codex pet carrying a tiny cache box for patient build loops.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "capybara",
+      "cache",
+      "calm",
+      "builds"
+    ],
+    "pageUrl": "https://codexpets.org/pets/cache-capy",
+    "downloadUrl": "https://codexpets.org/api/pets/cache-capy/download",
+    "spritesheetUrl": "https://codexpets.org/pets/cache-capy/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/cache-capy/pet.json"
+  },
+  {
+    "id": "prompt-penguin",
+    "displayName": "Prompt Penguin",
+    "description": "Prompt Penguin is a small penguin Codex pet holding a folded prompt scroll for focused AI workflows.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "penguin",
+      "prompt",
+      "scroll",
+      "focused"
+    ],
+    "pageUrl": "https://codexpets.org/pets/prompt-penguin",
+    "downloadUrl": "https://codexpets.org/api/pets/prompt-penguin/download",
+    "spritesheetUrl": "https://codexpets.org/pets/prompt-penguin/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/prompt-penguin/pet.json"
+  },
+  {
+    "id": "lint-sprout",
+    "displayName": "Lint Sprout",
+    "description": "Lint Sprout is a tidy cleanup sprout Codex pet with leaf ears and a chunky broom for code polish.",
+    "author": "sj-bs",
+    "kind": "creature",
+    "tags": [
+      "sprout",
+      "lint",
+      "cleanup",
+      "leaf-ears",
+      "broom"
+    ],
+    "pageUrl": "https://codexpets.org/pets/lint-sprout",
+    "downloadUrl": "https://codexpets.org/api/pets/lint-sprout/download",
+    "spritesheetUrl": "https://codexpets.org/pets/lint-sprout/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/lint-sprout/pet.json"
+  },
+  {
+    "id": "boba",
+    "displayName": "Boba",
+    "description": "Boba is a tiny otter Codex pet sipping bubble tea while keeping a cozy desktop companion rhythm.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "otter",
+      "bubble-tea",
+      "cozy",
+      "sea-creature"
+    ],
+    "pageUrl": "https://codexpets.org/pets/boba",
+    "downloadUrl": "https://codexpets.org/api/pets/boba/download",
+    "spritesheetUrl": "https://codexpets.org/pets/boba/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/boba/pet.json"
+  },
+  {
+    "id": "aqua-wisp",
+    "displayName": "Aqua Wisp",
+    "description": "Aqua Wisp is a teal helper spirit Codex pet with fin wings and a gentle curious expression.",
+    "author": "denghaowen59",
+    "kind": "creature",
+    "tags": [
+      "spirit",
+      "teal",
+      "fin-wings",
+      "helper",
+      "sea-creature"
+    ],
+    "pageUrl": "https://codexpets.org/pets/aqua-wisp",
+    "downloadUrl": "https://codexpets.org/api/pets/aqua-wisp/download",
+    "spritesheetUrl": "https://codexpets.org/pets/aqua-wisp/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/aqua-wisp/pet.json"
+  },
+  {
+    "id": "canary",
+    "displayName": "Canary",
+    "description": "Canary is a tiny yellow bird Codex pet with a rounded head and compact companion body.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "bird",
+      "canary",
+      "yellow",
+      "rounded-head",
+      "calm"
+    ],
+    "pageUrl": "https://codexpets.org/pets/canary",
+    "downloadUrl": "https://codexpets.org/api/pets/canary/download",
+    "spritesheetUrl": "https://codexpets.org/pets/canary/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/canary/pet.json"
+  },
+  {
+    "id": "froggle",
+    "displayName": "Froggle",
+    "description": "Froggle is a small green frog-like Codex pet with leafy tufts, curly antennae, and cheerful desktop animations.",
+    "author": "phineas1500",
+    "kind": "animal",
+    "tags": [
+      "frog",
+      "green",
+      "leafy-tufts",
+      "antennae",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/froggle",
+    "downloadUrl": "https://codexpets.org/api/pets/froggle/download",
+    "spritesheetUrl": "https://codexpets.org/pets/froggle/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/froggle/pet.json"
+  },
+  {
     "id": "elvis",
     "displayName": "Elvis",
     "description": "A tiny Elvis-inspired digital pet with a pompadour, white jumpsuit, and stage-ready charm.",
