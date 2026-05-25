@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
-[![Pets](https://img.shields.io/badge/downloadable%20pets-59-2f9e44)](./pets.json)
+[![Pets](https://img.shields.io/badge/downloadable%20pets-67-2f9e44)](./pets.json)
 
 Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
@@ -78,6 +78,13 @@ From there, choose a pet, open its preview page, and download the install-ready 
 - [Boba](./pets/boba/) - Boba is a tiny otter Codex pet sipping bubble tea while keeping a cozy desktop companion rhythm. [Preview](https://codexpets.org/pets/boba) | [Download](https://codexpets.org/api/pets/boba/download)
 - [Canary](./pets/canary/) - Canary is a tiny yellow bird Codex pet with a rounded head and compact companion body. [Preview](https://codexpets.org/pets/canary) | [Download](https://codexpets.org/api/pets/canary/download)
 - [Froggle](./pets/froggle/) - Froggle is a small green frog-like Codex pet with leafy tufts, curly antennae, and cheerful desktop animations. [Preview](https://codexpets.org/pets/froggle) | [Download](https://codexpets.org/api/pets/froggle/download)
+- [Cash Cuy](./pets/cash-cuy/) - Cash Cuy is a tiny guinea pig Codex pet with magical money-luck energy, compact pixel poses, and cheerful desktop companion animations. [Preview](https://codexpets.org/pets/cash-cuy) | [Download](https://codexpets.org/api/pets/cash-cuy/download)
+- [Noir Webling](./pets/noir-webling/) - Noir Webling is a monochrome spider detective Codex pet with a fedora, trench coat, and investigative desktop companion poses. [Preview](https://codexpets.org/pets/noir-webling) | [Download](https://codexpets.org/api/pets/noir-webling/download)
+- [Clawdex](./pets/clawdex/) - Clawdex is a tiny red lobster Codex pet in a dark hoodie and sunglasses, carrying a laptop for developer-themed desktop animations. [Preview](https://codexpets.org/pets/clawdex) | [Download](https://codexpets.org/api/pets/clawdex/download)
+- [Otto](./pets/otto/) - Otto is a compact sea otter Codex pet with pale shaggy face fur, a dark wet body, clasped paws, and calm companion motion. [Preview](https://codexpets.org/pets/otto) | [Download](https://codexpets.org/api/pets/otto/download)
+- [Mariglow](./pets/mariglow/) - Mariglow is a warm lamp-moth Codex pet with round glasses, amber glow, and focused late-night coder companion energy. [Preview](https://codexpets.org/pets/mariglow) | [Download](https://codexpets.org/api/pets/mariglow/download)
+- [Kwehlet](./pets/kwehlet/) - Kwehlet is a tiny golden fantasy bird Codex pet with a fluffy crest, stout legs, and bright cheerful animation poses. [Preview](https://codexpets.org/pets/kwehlet) | [Download](https://codexpets.org/api/pets/kwehlet/download)
+- [Mossy](./pets/mossy/) - Mossy is a cute sloth Codex pet with a small green hat, soft relaxed posture, and easygoing desktop companion movement. [Preview](https://codexpets.org/pets/mossy) | [Download](https://codexpets.org/api/pets/mossy/download)
 - [Ella Wave](./pets/ella-wave/) - A tiny Codex digital pet inspired by Ella, a curious black-and-white cat with chartreuse eyes, a pink nose, mask-like face patches, white chest, and a warm orange flank patch. [Preview](https://codexpets.org/pets/ella-wave) | [Download](https://codexpets.org/api/pets/ella-wave/download)
 
 ### Objects
@@ -94,6 +101,7 @@ From there, choose a pet, open its preview page, and download the install-ready 
 - [Tater](./pets/tater/) - A tiny coding potato mascot with warm idle, waving, waiting, and review animations. [Preview](https://codexpets.org/pets/tater) | [Download](https://codexpets.org/api/pets/tater/download)
 - [Lint Sprout](./pets/lint-sprout/) - Lint Sprout is a tidy cleanup sprout Codex pet with leaf ears and a chunky broom for code polish. [Preview](https://codexpets.org/pets/lint-sprout) | [Download](https://codexpets.org/api/pets/lint-sprout/download)
 - [Aqua Wisp](./pets/aqua-wisp/) - Aqua Wisp is a teal helper spirit Codex pet with fin wings and a gentle curious expression. [Preview](https://codexpets.org/pets/aqua-wisp) | [Download](https://codexpets.org/api/pets/aqua-wisp/download)
+- [Skillbit](./pets/skillbit/) - Skillbit is a tiny skill-workshop hatchling Codex pet for building, installing, and organizing developer workflow companions. [Preview](https://codexpets.org/pets/skillbit) | [Download](https://codexpets.org/api/pets/skillbit/download)
 
 ## What's Inside Each Codex Pet
 

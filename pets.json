@@ -1008,6 +1008,150 @@
     "manifestUrl": "https://codexpets.org/pets/froggle/pet.json"
   },
   {
+    "id": "cash-cuy",
+    "displayName": "Cash Cuy",
+    "description": "Cash Cuy is a tiny guinea pig Codex pet with magical money-luck energy, compact pixel poses, and cheerful desktop companion animations.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "guinea-pig",
+      "magic",
+      "gold",
+      "compact",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/cash-cuy",
+    "downloadUrl": "https://codexpets.org/api/pets/cash-cuy/download",
+    "spritesheetUrl": "https://codexpets.org/pets/cash-cuy/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/cash-cuy/pet.json"
+  },
+  {
+    "id": "noir-webling",
+    "displayName": "Noir Webling",
+    "description": "Noir Webling is a monochrome spider detective Codex pet with a fedora, trench coat, and investigative desktop companion poses.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "spider",
+      "detective",
+      "monochrome",
+      "fedora",
+      "noir"
+    ],
+    "pageUrl": "https://codexpets.org/pets/noir-webling",
+    "downloadUrl": "https://codexpets.org/api/pets/noir-webling/download",
+    "spritesheetUrl": "https://codexpets.org/pets/noir-webling/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/noir-webling/pet.json"
+  },
+  {
+    "id": "clawdex",
+    "displayName": "Clawdex",
+    "description": "Clawdex is a tiny red lobster Codex pet in a dark hoodie and sunglasses, carrying a laptop for developer-themed desktop animations.",
+    "author": "seedofevil",
+    "kind": "animal",
+    "tags": [
+      "lobster",
+      "red",
+      "hoodie",
+      "sunglasses",
+      "laptop"
+    ],
+    "pageUrl": "https://codexpets.org/pets/clawdex",
+    "downloadUrl": "https://codexpets.org/api/pets/clawdex/download",
+    "spritesheetUrl": "https://codexpets.org/pets/clawdex/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/clawdex/pet.json"
+  },
+  {
+    "id": "otto",
+    "displayName": "Otto",
+    "description": "Otto is a compact sea otter Codex pet with pale shaggy face fur, a dark wet body, clasped paws, and calm companion motion.",
+    "author": "judyclaude",
+    "kind": "animal",
+    "tags": [
+      "sea-otter",
+      "shaggy",
+      "paws",
+      "calm",
+      "marine"
+    ],
+    "pageUrl": "https://codexpets.org/pets/otto",
+    "downloadUrl": "https://codexpets.org/api/pets/otto/download",
+    "spritesheetUrl": "https://codexpets.org/pets/otto/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/otto/pet.json"
+  },
+  {
+    "id": "mariglow",
+    "displayName": "Mariglow",
+    "description": "Mariglow is a warm lamp-moth Codex pet with round glasses, amber glow, and focused late-night coder companion energy.",
+    "author": "maxlauriehutchinson",
+    "kind": "animal",
+    "tags": [
+      "moth",
+      "glasses",
+      "amber",
+      "focused",
+      "glow"
+    ],
+    "pageUrl": "https://codexpets.org/pets/mariglow",
+    "downloadUrl": "https://codexpets.org/api/pets/mariglow/download",
+    "spritesheetUrl": "https://codexpets.org/pets/mariglow/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/mariglow/pet.json"
+  },
+  {
+    "id": "skillbit",
+    "displayName": "Skillbit",
+    "description": "Skillbit is a tiny skill-workshop hatchling Codex pet for building, installing, and organizing developer workflow companions.",
+    "author": "Shreyansh S.",
+    "kind": "creature",
+    "tags": [
+      "skill",
+      "hatchling",
+      "workshop",
+      "developer",
+      "workflow"
+    ],
+    "pageUrl": "https://codexpets.org/pets/skillbit",
+    "downloadUrl": "https://codexpets.org/api/pets/skillbit/download",
+    "spritesheetUrl": "https://codexpets.org/pets/skillbit/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/skillbit/pet.json"
+  },
+  {
+    "id": "kwehlet",
+    "displayName": "Kwehlet",
+    "description": "Kwehlet is a tiny golden fantasy bird Codex pet with a fluffy crest, stout legs, and bright cheerful animation poses.",
+    "author": "Strictly O.",
+    "kind": "animal",
+    "tags": [
+      "bird",
+      "golden",
+      "fantasy",
+      "crest",
+      "cheerful"
+    ],
+    "pageUrl": "https://codexpets.org/pets/kwehlet",
+    "downloadUrl": "https://codexpets.org/api/pets/kwehlet/download",
+    "spritesheetUrl": "https://codexpets.org/pets/kwehlet/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/kwehlet/pet.json"
+  },
+  {
+    "id": "mossy",
+    "displayName": "Mossy",
+    "description": "Mossy is a cute sloth Codex pet with a small green hat, soft relaxed posture, and easygoing desktop companion movement.",
+    "author": "nateinthesky",
+    "kind": "animal",
+    "tags": [
+      "sloth",
+      "green-hat",
+      "relaxed",
+      "soft",
+      "easygoing"
+    ],
+    "pageUrl": "https://codexpets.org/pets/mossy",
+    "downloadUrl": "https://codexpets.org/api/pets/mossy/download",
+    "spritesheetUrl": "https://codexpets.org/pets/mossy/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/mossy/pet.json"
+  },
+  {
     "id": "elvis",
     "displayName": "Elvis",
     "description": "A tiny Elvis-inspired digital pet with a pompadour, white jumpsuit, and stage-ready charm.",
