@@ -1216,6 +1216,158 @@
     "manifestUrl": "https://codexpets.org/pets/mossy/pet.json"
   },
   {
+    "id": "cicada-2",
+    "displayName": "Cicada",
+    "description": "Cicada is a front-facing cicada Codex pet with milky red compound eyes, a ridged faceplate, and crisp insect desktop companion poses.",
+    "author": "Luke B.",
+    "kind": "animal",
+    "tags": [
+      "cicada",
+      "insect",
+      "compound-eyes",
+      "ridged-faceplate",
+      "focused"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/cicada-2",
+    "downloadUrl": "https://codexpets.org/api/pets/cicada-2/download",
+    "spritesheetUrl": "https://codexpets.org/pets/cicada-2/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/cicada-2/pet.json"
+  },
+  {
+    "id": "mothseal",
+    "displayName": "Mothseal",
+    "description": "Mothseal is an archive moth Codex pet with folded lamina wings, a binder-clip body, red thread details, and amber pinhole eyes.",
+    "author": "Federico C.",
+    "kind": "animal",
+    "tags": [
+      "moth",
+      "archive",
+      "binder-clip",
+      "red-thread",
+      "amber-eyes"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/mothseal",
+    "downloadUrl": "https://codexpets.org/api/pets/mothseal/download",
+    "spritesheetUrl": "https://codexpets.org/pets/mothseal/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/mothseal/pet.json"
+  },
+  {
+    "id": "eagle",
+    "displayName": "Eagle",
+    "description": "Eagle is a compact raptor Codex pet with a proud head, sharp silhouette, and readable wing motion for focused desktop sessions.",
+    "author": "railly",
+    "kind": "animal",
+    "tags": [
+      "eagle",
+      "raptor",
+      "bird",
+      "compact-wings",
+      "focused"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/eagle",
+    "downloadUrl": "https://codexpets.org/api/pets/eagle/download",
+    "spritesheetUrl": "https://codexpets.org/pets/eagle/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/eagle/pet.json"
+  },
+  {
+    "id": "shoeby",
+    "displayName": "Shoeby",
+    "description": "Shoeby is a shoebill Codex pet with a massive shoe-shaped beak, pixel-adjacent styling, and calm intense eyes.",
+    "author": "Amir D.",
+    "kind": "animal",
+    "tags": [
+      "shoebill",
+      "bird",
+      "shoe-beak",
+      "pixel-adjacent",
+      "calm"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/shoeby",
+    "downloadUrl": "https://codexpets.org/api/pets/shoeby/download",
+    "spritesheetUrl": "https://codexpets.org/pets/shoeby/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/shoeby/pet.json"
+  },
+  {
+    "id": "awawa-hyrax-2",
+    "displayName": "Awawa Hyrax",
+    "description": "Awawa Hyrax is a rock hyrax Codex pet with beady eyes, tiny tusks, wiry whiskers, and an awkward expressive stance.",
+    "author": "Nicolas C.",
+    "kind": "animal",
+    "tags": [
+      "rock-hyrax",
+      "tiny-tusks",
+      "wiry-whiskers",
+      "expressive",
+      "exotic"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/awawa-hyrax-2",
+    "downloadUrl": "https://codexpets.org/api/pets/awawa-hyrax-2/download",
+    "spritesheetUrl": "https://codexpets.org/pets/awawa-hyrax-2/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/awawa-hyrax-2/pet.json"
+  },
+  {
+    "id": "axobotl-2",
+    "displayName": "Axobotl",
+    "description": "Axobotl is a mischievous axolotl robot Codex pet with tiny chaotic energy, aquatic colors, and playful desktop movement.",
+    "author": "hello",
+    "kind": "animal",
+    "tags": [
+      "axolotl",
+      "robot",
+      "sea-creature",
+      "playful",
+      "tiny"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/axobotl-2",
+    "downloadUrl": "https://codexpets.org/api/pets/axobotl-2/download",
+    "spritesheetUrl": "https://codexpets.org/pets/axobotl-2/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/axobotl-2/pet.json"
+  },
+  {
+    "id": "mosaic-invader",
+    "displayName": "Mosaic Invader",
+    "description": "Mosaic Invader is a cyan arcade alien Codex pet with tile-mosaic styling, stubby antennae, and bright big-eye animation poses.",
+    "author": "Xander W.",
+    "kind": "creature",
+    "tags": [
+      "arcade-alien",
+      "mosaic",
+      "cyan",
+      "stubby-antennae",
+      "big-eyes"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/mosaic-invader",
+    "downloadUrl": "https://codexpets.org/api/pets/mosaic-invader/download",
+    "spritesheetUrl": "https://codexpets.org/pets/mosaic-invader/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/mosaic-invader/pet.json"
+  },
+  {
+    "id": "chikny",
+    "displayName": "Chikny",
+    "description": "Chikny is a round chick-like fantasy hatchling Codex pet with glossy eyes, tufted feathers, stubby wings, and a soft yellow-orange palette.",
+    "author": "sj-bs",
+    "kind": "animal",
+    "tags": [
+      "chick",
+      "hatchling",
+      "bird",
+      "tufted-feathers",
+      "yellow-orange"
+    ],
+    "addedAt": "2026-05-27",
+    "pageUrl": "https://codexpets.org/pets/chikny",
+    "downloadUrl": "https://codexpets.org/api/pets/chikny/download",
+    "spritesheetUrl": "https://codexpets.org/pets/chikny/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/chikny/pet.json"
+  },
+  {
     "id": "elvis",
     "displayName": "Elvis",
     "description": "A tiny Elvis-inspired digital pet with a pompadour, white jumpsuit, and stage-ready charm.",

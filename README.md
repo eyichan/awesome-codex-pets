@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
-[![Pets](https://img.shields.io/badge/downloadable%20pets-67-2f9e44)](./pets.json)
+[![Pets](https://img.shields.io/badge/downloadable%20pets-75-2f9e44)](./pets.json)
 
 Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
@@ -85,6 +85,13 @@ From there, choose a pet, open its preview page, and download the install-ready 
 - [Mariglow](./pets/mariglow/) - Mariglow is a warm lamp-moth Codex pet with round glasses, amber glow, and focused late-night coder companion energy. [Preview](https://codexpets.org/pets/mariglow) | [Download](https://codexpets.org/api/pets/mariglow/download)
 - [Kwehlet](./pets/kwehlet/) - Kwehlet is a tiny golden fantasy bird Codex pet with a fluffy crest, stout legs, and bright cheerful animation poses. [Preview](https://codexpets.org/pets/kwehlet) | [Download](https://codexpets.org/api/pets/kwehlet/download)
 - [Mossy](./pets/mossy/) - Mossy is a cute sloth Codex pet with a small green hat, soft relaxed posture, and easygoing desktop companion movement. [Preview](https://codexpets.org/pets/mossy) | [Download](https://codexpets.org/api/pets/mossy/download)
+- [Cicada](./pets/cicada-2/) - Cicada is a front-facing cicada Codex pet with milky red compound eyes, a ridged faceplate, and crisp insect desktop companion poses. [Preview](https://codexpets.org/pets/cicada-2) | [Download](https://codexpets.org/api/pets/cicada-2/download)
+- [Mothseal](./pets/mothseal/) - Mothseal is an archive moth Codex pet with folded lamina wings, a binder-clip body, red thread details, and amber pinhole eyes. [Preview](https://codexpets.org/pets/mothseal) | [Download](https://codexpets.org/api/pets/mothseal/download)
+- [Eagle](./pets/eagle/) - Eagle is a compact raptor Codex pet with a proud head, sharp silhouette, and readable wing motion for focused desktop sessions. [Preview](https://codexpets.org/pets/eagle) | [Download](https://codexpets.org/api/pets/eagle/download)
+- [Shoeby](./pets/shoeby/) - Shoeby is a shoebill Codex pet with a massive shoe-shaped beak, pixel-adjacent styling, and calm intense eyes. [Preview](https://codexpets.org/pets/shoeby) | [Download](https://codexpets.org/api/pets/shoeby/download)
+- [Awawa Hyrax](./pets/awawa-hyrax-2/) - Awawa Hyrax is a rock hyrax Codex pet with beady eyes, tiny tusks, wiry whiskers, and an awkward expressive stance. [Preview](https://codexpets.org/pets/awawa-hyrax-2) | [Download](https://codexpets.org/api/pets/awawa-hyrax-2/download)
+- [Axobotl](./pets/axobotl-2/) - Axobotl is a mischievous axolotl robot Codex pet with tiny chaotic energy, aquatic colors, and playful desktop movement. [Preview](https://codexpets.org/pets/axobotl-2) | [Download](https://codexpets.org/api/pets/axobotl-2/download)
+- [Chikny](./pets/chikny/) - Chikny is a round chick-like fantasy hatchling Codex pet with glossy eyes, tufted feathers, stubby wings, and a soft yellow-orange palette. [Preview](https://codexpets.org/pets/chikny) | [Download](https://codexpets.org/api/pets/chikny/download)
 - [Ella Wave](./pets/ella-wave/) - A tiny Codex digital pet inspired by Ella, a curious black-and-white cat with chartreuse eyes, a pink nose, mask-like face patches, white chest, and a warm orange flank patch. [Preview](https://codexpets.org/pets/ella-wave) | [Download](https://codexpets.org/api/pets/ella-wave/download)
 
 ### Objects
@@ -102,6 +109,7 @@ From there, choose a pet, open its preview page, and download the install-ready 
 - [Lint Sprout](./pets/lint-sprout/) - Lint Sprout is a tidy cleanup sprout Codex pet with leaf ears and a chunky broom for code polish. [Preview](https://codexpets.org/pets/lint-sprout) | [Download](https://codexpets.org/api/pets/lint-sprout/download)
 - [Aqua Wisp](./pets/aqua-wisp/) - Aqua Wisp is a teal helper spirit Codex pet with fin wings and a gentle curious expression. [Preview](https://codexpets.org/pets/aqua-wisp) | [Download](https://codexpets.org/api/pets/aqua-wisp/download)
 - [Skillbit](./pets/skillbit/) - Skillbit is a tiny skill-workshop hatchling Codex pet for building, installing, and organizing developer workflow companions. [Preview](https://codexpets.org/pets/skillbit) | [Download](https://codexpets.org/api/pets/skillbit/download)
+- [Mosaic Invader](./pets/mosaic-invader/) - Mosaic Invader is a cyan arcade alien Codex pet with tile-mosaic styling, stubby antennae, and bright big-eye animation poses. [Preview](https://codexpets.org/pets/mosaic-invader) | [Download](https://codexpets.org/api/pets/mosaic-invader/download)
 
 ## What's Inside Each Codex Pet
 
