@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
-[![Pets](https://img.shields.io/badge/downloadable%20pets-75-2f9e44)](./pets.json)
+[![Pets](https://img.shields.io/badge/downloadable%20pets-76-2f9e44)](./pets.json)
 
 Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
@@ -110,6 +110,7 @@ From there, choose a pet, open its preview page, and download the install-ready 
 - [Aqua Wisp](./pets/aqua-wisp/) - Aqua Wisp is a teal helper spirit Codex pet with fin wings and a gentle curious expression. [Preview](https://codexpets.org/pets/aqua-wisp) | [Download](https://codexpets.org/api/pets/aqua-wisp/download)
 - [Skillbit](./pets/skillbit/) - Skillbit is a tiny skill-workshop hatchling Codex pet for building, installing, and organizing developer workflow companions. [Preview](https://codexpets.org/pets/skillbit) | [Download](https://codexpets.org/api/pets/skillbit/download)
 - [Mosaic Invader](./pets/mosaic-invader/) - Mosaic Invader is a cyan arcade alien Codex pet with tile-mosaic styling, stubby antennae, and bright big-eye animation poses. [Preview](https://codexpets.org/pets/mosaic-invader) | [Download](https://codexpets.org/api/pets/mosaic-invader/download)
+- [Beanie](./pets/beanie/) - Your beading buddy for patterns, tutorials, comparisons, and hands-on crafting. [Preview](https://codexpets.org/pets/beanie) | [Download](https://codexpets.org/api/pets/beanie/download) [From Beadify ↗](https://beadify.app/)
 
 ## What's Inside Each Codex Pet
 
