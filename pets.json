@@ -1,5 +1,29 @@
 [
   {
+    "id": "otterumells",
+    "displayName": "Otterumells",
+    "description": "A brown otter Codex pet with a cream belly, side-facing walking loops, a laptop work pose, and a magnifying-glass review animation.",
+    "author": "winkpist95",
+    "kind": "animal",
+    "tags": [
+      "otter",
+      "brown",
+      "cozy",
+      "laptop",
+      "animated"
+    ],
+    "addedAt": "2026-10-02",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/otterumells"
+    },
+    "pageUrl": "https://codexpets.org/pets/otterumells",
+    "downloadUrl": "https://codexpets.org/api/pets/otterumells/download",
+    "spritesheetUrl": "https://codexpets.org/pets/otterumells/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/otterumells/pet.json"
+  },
+  {
     "id": "tater",
     "displayName": "Tater",
     "description": "A tiny coding potato mascot with warm idle, waving, waiting, and review animations.",
