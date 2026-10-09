@@ -1,5 +1,29 @@
 [
   {
+    "id": "peri-the-owl",
+    "displayName": "Peri the Owl",
+    "description": "An emerald-green owl Codex pet with large white eyes, mirrored movement loops, a side-tipping failure pose, and a gold coin in its review animation.",
+    "author": "asyncsan",
+    "kind": "animal",
+    "tags": [
+      "owl",
+      "green",
+      "round",
+      "mascot",
+      "animated"
+    ],
+    "addedAt": "2026-10-09",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/peri-the-owl"
+    },
+    "pageUrl": "https://codexpets.org/pets/peri-the-owl",
+    "downloadUrl": "https://codexpets.org/api/pets/peri-the-owl/download",
+    "spritesheetUrl": "https://codexpets.org/pets/peri-the-owl/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/peri-the-owl/pet.json"
+  },
+  {
     "id": "otterumells",
     "displayName": "Otterumells",
     "description": "A brown otter Codex pet with a cream belly, side-facing walking loops, a laptop work pose, and a magnifying-glass review animation.",

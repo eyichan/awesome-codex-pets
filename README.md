@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
-[![Pets](https://img.shields.io/badge/downloadable%20pets-77-2f9e44)](./pets.json)
+[![Pets](https://img.shields.io/badge/downloadable%20pets-78-2f9e44)](./pets.json)
 
 Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
@@ -26,6 +26,7 @@ From there, choose a pet, open its preview page, and download the install-ready 
 
 ### Animals
 
+- [Peri the Owl](./pets/peri-the-owl/) - An emerald-green owl Codex pet with large white eyes, mirrored movement loops, a side-tipping failure pose, and a gold coin in its review animation. [Preview](https://codexpets.org/pets/peri-the-owl) | [Download](https://codexpets.org/api/pets/peri-the-owl/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/peri-the-owl)
 - [Otterumells](./pets/otterumells/) - A brown otter Codex pet with a cream belly, side-facing walking loops, a laptop work pose, and a magnifying-glass review animation. [Preview](https://codexpets.org/pets/otterumells) | [Download](https://codexpets.org/api/pets/otterumells/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/otterumells)
 - [Pixel Corgi](./pets/pixel-corgi/) - A compact corgi companion for testing animal-style Codex pet movement and waiting loops. [Preview](https://codexpets.org/pets/pixel-corgi) | [Download](https://codexpets.org/api/pets/pixel-corgi/download)
 - [Capybara Coder](./pets/capybara-coder/) - A calm pixel capybara coding companion with small glasses, a blue shirt, and friendly idle, waving, waiting, and review animations. [Preview](https://codexpets.org/pets/capybara-coder) | [Download](https://codexpets.org/api/pets/capybara-coder/download)
