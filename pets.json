@@ -1,5 +1,29 @@
 [
   {
+    "id": "penguin-chick",
+    "displayName": "Emperor Penguin Chick",
+    "description": "A fluffy gray emperor penguin chick Codex pet with white cheek patches, side-facing waddles, a flipper wave, and a face-down failure pose.",
+    "author": "Penguin",
+    "kind": "animal",
+    "tags": [
+      "penguin",
+      "chick",
+      "gray",
+      "fluffy",
+      "animated"
+    ],
+    "addedAt": "2026-10-16",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.dev/pets/penguin-chick"
+    },
+    "pageUrl": "https://codexpets.org/pets/penguin-chick",
+    "downloadUrl": "https://codexpets.org/api/pets/penguin-chick/download",
+    "spritesheetUrl": "https://codexpets.org/pets/penguin-chick/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/penguin-chick/pet.json"
+  },
+  {
     "id": "peri-the-owl",
     "displayName": "Peri the Owl",
     "description": "An emerald-green owl Codex pet with large white eyes, mirrored movement loops, a side-tipping failure pose, and a gold coin in its review animation.",
