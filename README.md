@@ -20,7 +20,7 @@ Codex Pets is an independent community concept and utility. It is not an officia
 
 Start with the gallery: [https://codexpets.org/gallery](https://codexpets.org/gallery)
 
-From there, choose a pet, open its preview page, and download the install-ready package. You can also use the [preview tool](https://codexpets.org/preview), follow the [install guide](https://codexpets.org/install), or [build your own Codex Pet](https://codexpets.org/builder).
+From there, choose a pet, open its preview page, and download the install-ready package. You can also use the [preview tool](https://codexpets.org/tools/sprite-preview), follow the [install guide](https://codexpets.org/install), or [build your own Codex Pet](https://codexpets.org/tools/pet-prompt-builder).
 
 ## Collection
 
@@ -155,7 +155,7 @@ https://codexpets.org/api/pets/capybara-coder/download
 
 Use the builder to create or package your own pet:
 
-https://codexpets.org/builder
+https://codexpets.org/tools/pet-prompt-builder
 
 ## Machine-Readable Catalog
 
