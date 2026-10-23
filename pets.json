@@ -1,5 +1,53 @@
 [
   {
+    "id": "red-panda",
+    "displayName": "Red Panda",
+    "description": "An orange-red panda Codex pet with white cheek patches, a striped tail, side-facing strides and a low curled failure pose.",
+    "author": "pp33pant",
+    "kind": "animal",
+    "tags": [
+      "red-panda",
+      "orange",
+      "striped-tail",
+      "fluffy",
+      "animated"
+    ],
+    "addedAt": "2026-10-23",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/red-panda"
+    },
+    "pageUrl": "https://codexpets.org/pets/red-panda",
+    "downloadUrl": "https://codexpets.org/api/pets/red-panda/download",
+    "spritesheetUrl": "https://codexpets.org/pets/red-panda/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/red-panda/pet.json"
+  },
+  {
+    "id": "shellpop-snail",
+    "displayName": "Shellpop Snail",
+    "description": "A mint-green snail Codex pet with a lavender spiral shell, rounded antennae, a small wave and a drooping failure animation.",
+    "author": "sherly-li",
+    "kind": "animal",
+    "tags": [
+      "snail",
+      "mint",
+      "lavender",
+      "spiral-shell",
+      "animated"
+    ],
+    "addedAt": "2026-10-23",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/shellpop-snail"
+    },
+    "pageUrl": "https://codexpets.org/pets/shellpop-snail",
+    "downloadUrl": "https://codexpets.org/api/pets/shellpop-snail/download",
+    "spritesheetUrl": "https://codexpets.org/pets/shellpop-snail/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/shellpop-snail/pet.json"
+  },
+  {
     "id": "penguin-chick",
     "displayName": "Emperor Penguin Chick",
     "description": "A fluffy gray emperor penguin chick Codex pet with white cheek patches, side-facing waddles, a flipper wave, and a face-down failure pose.",
