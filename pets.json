@@ -1,5 +1,29 @@
 [
   {
+    "id": "faultier",
+    "displayName": "Sloth",
+    "description": "A brown branch-hanging sloth Codex pet with a cream face, dark eye mask, gentle swings and subtle status changes.",
+    "author": "dodo-nw",
+    "kind": "animal",
+    "tags": [
+      "sloth",
+      "brown",
+      "branch",
+      "quiet",
+      "animated"
+    ],
+    "addedAt": "2026-10-30",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/faultier"
+    },
+    "pageUrl": "https://codexpets.org/pets/faultier",
+    "downloadUrl": "https://codexpets.org/api/pets/faultier/download",
+    "spritesheetUrl": "https://codexpets.org/pets/faultier/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/faultier/pet.json"
+  },
+  {
     "id": "red-panda",
     "displayName": "Red Panda",
     "description": "An orange-red panda Codex pet with white cheek patches, a striped tail, side-facing strides and a low curled failure pose.",
