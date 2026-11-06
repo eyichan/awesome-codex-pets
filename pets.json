@@ -1,5 +1,29 @@
 [
   {
+    "id": "bilby-bird",
+    "displayName": "Bilby Bird",
+    "description": "A blue-gray long-eared Codex pet with a red scarf, a tiny white bird companion and a visible laptop-working pose.",
+    "author": "bilbylee",
+    "kind": "animal",
+    "tags": [
+      "bilby",
+      "bird",
+      "scarf",
+      "blue-gray",
+      "animated"
+    ],
+    "addedAt": "2026-11-06",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/bilby-bird"
+    },
+    "pageUrl": "https://codexpets.org/pets/bilby-bird",
+    "downloadUrl": "https://codexpets.org/api/pets/bilby-bird/download",
+    "spritesheetUrl": "https://codexpets.org/pets/bilby-bird/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/bilby-bird/pet.json"
+  },
+  {
     "id": "faultier",
     "displayName": "Sloth",
     "description": "A brown branch-hanging sloth Codex pet with a cream face, dark eye mask, gentle swings and subtle status changes.",

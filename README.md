@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
-[![Pets](https://img.shields.io/badge/downloadable%20pets-82-2f9e44)](./pets.json)
+[![Pets](https://img.shields.io/badge/downloadable%20pets-83-2f9e44)](./pets.json)
 
 Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
@@ -26,6 +26,7 @@ From there, choose a pet, open its preview page, and download the install-ready 
 
 ### Animals
 
+- [Bilby Bird](./pets/bilby-bird/) - A blue-gray long-eared Codex pet with a red scarf, a tiny white bird companion and a visible laptop-working pose. [Preview](https://codexpets.org/pets/bilby-bird) | [Download](https://codexpets.org/api/pets/bilby-bird/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/bilby-bird)
 - [Sloth](./pets/faultier/) - A brown branch-hanging sloth Codex pet with a cream face, dark eye mask, gentle swings and subtle status changes. [Preview](https://codexpets.org/pets/faultier) | [Download](https://codexpets.org/api/pets/faultier/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/faultier)
 - [Red Panda](./pets/red-panda/) - An orange-red panda Codex pet with white cheek patches, a striped tail, side-facing strides and a low curled failure pose. [Preview](https://codexpets.org/pets/red-panda) | [Download](https://codexpets.org/api/pets/red-panda/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/red-panda)
 - [Shellpop Snail](./pets/shellpop-snail/) - A mint-green snail Codex pet with a lavender spiral shell, rounded antennae, a small wave and a drooping failure animation. [Preview](https://codexpets.org/pets/shellpop-snail) | [Download](https://codexpets.org/api/pets/shellpop-snail/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/shellpop-snail)
