@@ -1,5 +1,29 @@
 [
   {
+    "id": "belayer-cat",
+    "displayName": "Belayer Cat",
+    "description": "A tall black-and-white Codex cat pet with a blue climbing harness, red rope detail and an upright rope-working animation.",
+    "author": "0xdoublemoon",
+    "kind": "animal",
+    "tags": [
+      "cat",
+      "climbing",
+      "harness",
+      "black-and-white",
+      "animated"
+    ],
+    "addedAt": "2026-11-13",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/belayer-cat"
+    },
+    "pageUrl": "https://codexpets.org/pets/belayer-cat",
+    "downloadUrl": "https://codexpets.org/api/pets/belayer-cat/download",
+    "spritesheetUrl": "https://codexpets.org/pets/belayer-cat/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/belayer-cat/pet.json"
+  },
+  {
     "id": "bilby-bird",
     "displayName": "Bilby Bird",
     "description": "A blue-gray long-eared Codex pet with a red scarf, a tiny white bird companion and a visible laptop-working pose.",
