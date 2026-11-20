@@ -1,5 +1,29 @@
 [
   {
+    "id": "lvk-rabbit",
+    "displayName": "LVK Rabbit",
+    "description": "Cream lop rabbit Codex pet featuring pink inner ears, round glasses, a mint hoodie, and a lavender-gray laptop with a mint clover.",
+    "author": "nagisasaka",
+    "kind": "animal",
+    "tags": [
+      "rabbit",
+      "lop-ears",
+      "glasses",
+      "mint",
+      "laptop"
+    ],
+    "addedAt": "2026-11-20",
+    "spriteVersionNumber": 1,
+    "sourceAttribution": {
+      "label": "Source: Petdex ↗",
+      "url": "https://petdex.crafter.run/pets/lvk-rabbit"
+    },
+    "pageUrl": "https://codexpets.org/pets/lvk-rabbit",
+    "downloadUrl": "https://codexpets.org/api/pets/lvk-rabbit/download",
+    "spritesheetUrl": "https://codexpets.org/pets/lvk-rabbit/spritesheet.webp",
+    "manifestUrl": "https://codexpets.org/pets/lvk-rabbit/pet.json"
+  },
+  {
     "id": "belayer-cat",
     "displayName": "Belayer Cat",
     "description": "A tall black-and-white Codex cat pet with a blue climbing harness, red rope detail and an upright rope-working animation.",
