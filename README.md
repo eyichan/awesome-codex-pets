@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Codex Pets](https://img.shields.io/badge/Codex%20Pets-codexpets.org-20a4f3)](https://codexpets.org)
-[![Pets](https://img.shields.io/badge/downloadable%20pets-85-2f9e44)](./pets.json)
+[![Pets](https://img.shields.io/badge/downloadable%20pets-86-2f9e44)](./pets.json)
 
 Download a Codex Pet, give your Codex workspace an animated companion, and add personality to AI-assisted coding.
 
@@ -26,6 +26,7 @@ From there, choose a pet, open its preview page, and download the install-ready 
 
 ### Animals
 
+- [Nappy Owl](./pets/nappy-owl/) - Round white owl with a yellow beak, peach cheeks, blue sleep bubbles, flat Failed posture, and occasional gold-rimmed monocle in Review. [Preview](https://codexpets.org/pets/nappy-owl) | [Download](https://codexpets.org/api/pets/nappy-owl/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/nappy-owl)
 - [LVK Rabbit](./pets/lvk-rabbit/) - Cream lop rabbit Codex pet featuring pink inner ears, round glasses, a mint hoodie, and a lavender-gray laptop with a mint clover. [Preview](https://codexpets.org/pets/lvk-rabbit) | [Download](https://codexpets.org/api/pets/lvk-rabbit/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/lvk-rabbit)
 - [Belayer Cat](./pets/belayer-cat/) - A tall black-and-white Codex cat pet with a blue climbing harness, red rope detail and an upright rope-working animation. [Preview](https://codexpets.org/pets/belayer-cat) | [Download](https://codexpets.org/api/pets/belayer-cat/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/belayer-cat)
 - [Bilby Bird](./pets/bilby-bird/) - A blue-gray long-eared Codex pet with a red scarf, a tiny white bird companion and a visible laptop-working pose. [Preview](https://codexpets.org/pets/bilby-bird) | [Download](https://codexpets.org/api/pets/bilby-bird/download) [Source: Petdex ↗](https://petdex.crafter.run/pets/bilby-bird)
